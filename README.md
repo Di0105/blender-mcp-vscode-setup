@@ -2,7 +2,7 @@
 
 > **用 VS Code + Copilot Chat 通过 AI 直接控制 Blender 进行 3D 建模！**
 
-本项目是基于 [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)（MIT License）的**二次整理与部署指南**，重点面向 **VS Code** 用户（而非 Claude Desktop），让你和朋友也能快速配置并使用 AI 操控 Blender。
+本项目是基于 [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)（MIT License）的**二次整理与部署指南**，重点面向 **VS Code** 用户（而非 Claude Desktop），让vscode使用者快速配置并使用 AI 操控 Blender。
 
 ---
 
