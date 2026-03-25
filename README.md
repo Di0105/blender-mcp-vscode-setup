@@ -193,9 +193,6 @@ blender-mcp-vscode-setup/
 2. 确认 `mcp.json` 配置正确放在 `%APPDATA%\Code\User\` 目录下
 3. 重启 VS Code
 
-### Q: 需要 Claude API Key 吗？
-
-**不需要！** 本方案使用 VS Code + GitHub Copilot（需要 Copilot 订阅），通过 MCP 协议与 Blender 通信，完全不涉及 Claude API。
 
 ### Q: 和原版 blender-mcp 有什么区别？
 
